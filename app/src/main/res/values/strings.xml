@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PING</string>
+    <string name="hello_world">Waiting for you to PING</string>
+    <string name="action_settings">Settings</string>
+</resources>
